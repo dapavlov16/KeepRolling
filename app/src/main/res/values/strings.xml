@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rolling</string>
+    <string name="claim_prize">claim prize</string>
+    <string name="upgrade">upgrade</string>
+    <string name="go_back">go back!</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="roll">roll</string>
+    <string name="keep">keep rolling</string>
+</resources>
